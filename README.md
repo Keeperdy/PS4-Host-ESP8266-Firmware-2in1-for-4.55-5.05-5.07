@@ -147,4 +147,4 @@ Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymo
 
 ### ОСОБАЯ БЛАГОДАРНОСТЬ РАЗРАБОТЧИКАМ:
 
-Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer, EdiTzZ, Zer0xFF, Leeful, The Open Orbis team, etc.
+Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer, EdiTzZ, Zer0xFF, Leeful, The Open Orbis team, SISTRo, etc.
