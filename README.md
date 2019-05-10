@@ -35,7 +35,7 @@ Here you can find ESP8266 custom firmware for hosting PS 4 payloads for 4.55/5.0
 **The payloads list for 4.55 includes:**
 
     HEN
-    MIRA+HEN
+    MIRA+HEN (deleted in v 1.3)
     BackUp
     App2Usb
     FTP
@@ -45,6 +45,7 @@ Here you can find ESP8266 custom firmware for hosting PS 4 payloads for 4.55/5.0
     Disable/Enable ReactPS+
     Disable/Enable Updates
     Disable/Enable Blocker EXTREME
+    Linux Loaders
     
 *Payload version is indicated in "About" section*
 
@@ -108,7 +109,7 @@ Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymo
 **Список пэйлоадов для 5.05 состоит из:**
 
     HEN
-    MIRA+HEN
+    MIRA+HEN (убра в версии 1.3)
     BackUp
     App2Usb
     FTP
@@ -118,6 +119,7 @@ Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymo
     Disable/Enable ReactPS+
     Disable/Enable Updates
     Disable/Enable Blocker EXTREME
+    Linux Loaders
     
 *Версия пэйлоада указана в разделе "About"*
 
