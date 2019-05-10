@@ -74,7 +74,7 @@ Upload firmware in .bin format via NodeMCU-PyFlasher 3.0 (added screenshot with 
 
 ### CREDITS TO:
 
-Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer, EdiTzZ, Zer0xFF, Leeful, The Open Orbis team, etc.
+Al-Azif, Specter, Qwertyoruiopz, Flatz, XVortex, Stooged, LightningMods, Anonymous, Marcelstoer, EdiTzZ, Zer0xFF, Leeful, The Open Orbis team, SISTRo, etc.
 
 
 
