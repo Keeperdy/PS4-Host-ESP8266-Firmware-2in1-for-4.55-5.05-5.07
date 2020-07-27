@@ -32,7 +32,7 @@ Here you can find ESP8266 custom firmware for hosting PS 4 payloads for 4.55/5.0
 
 
 ### 5.05
-**The payloads list for 4.55 includes:**
+**The payloads list for 5.05 includes:**
 
     HEN
     MIRA+HEN (deleted in v 1.3)
